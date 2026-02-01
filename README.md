@@ -1,4 +1,4 @@
-# BnBreeze – Backend Practice Project
+# BnBreeze – FullStack Project
 
 This project was built to practice backend development using Node.js and Express.
 The main focus of this project is backend logic, routing, authentication, and database handling.
