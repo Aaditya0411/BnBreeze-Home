@@ -74,11 +74,10 @@ UI is kept simple and is only used to test backend functionality.
 
 ## How to Run Locally
 
-git clone https://github.com/Aaditya0411/BnBreeze-Home.git
-
-cd BnBreeze-Home
-npm install
-node app.js
+- git clone https://github.com/Aaditya0411/BnBreeze-Home.git
+-cd BnBreeze-Home
+-npm install
+-node app.js
 
 ---
 
