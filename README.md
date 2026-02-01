@@ -71,48 +71,6 @@ UI is kept simple and is only used to test backend functionality.
 
 ---
 
-## Project Structure
-
-BnBreeze-Home
-│
-├── controllers
-│ ├── listings.js
-│ ├── reviews.js
-│ └── users.js
-│
-├── models
-│ ├── listing.js
-│ ├── review.js
-│ └── user.js
-│
-├── routes
-│ ├── listing.js
-│ ├── review.js
-│ └── user.js
-│
-├── views
-│ ├── layouts
-│ ├── includes
-│ ├── listings
-│ ├── users
-│ └── error.ejs
-│
-├── public
-│ ├── CSS
-│ └── js
-│
-├── utils
-│ ├── ExpressError.js
-│ └── wrapAsync.js
-│
-├── app.js
-├── cloudConfig.js
-├── schema.js
-├── package.json
-└── README.md
-
-
----
 
 ## How to Run Locally
 
