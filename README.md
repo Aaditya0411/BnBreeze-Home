@@ -1,8 +1,7 @@
 # BnBreeze – FullStack Project
 
-This project was built to practice backend development using Node.js and Express.
-The main focus of this project is backend logic, routing, authentication, and database handling.
-UI is kept simple and is only used to test backend functionality.
+BnBreeze is a **full stack web development practice project** inspired by Airbnb.  
+This project was built to understand how frontend and backend work together in a real application.
 
 ---
 
