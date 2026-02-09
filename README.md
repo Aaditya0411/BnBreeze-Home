@@ -16,6 +16,7 @@ This project was built to understand how frontend and backend work together in a
 - Error handling using custom error classes
 - Server-side form handling
 - Backend validation
+- 
 
 ---
 
